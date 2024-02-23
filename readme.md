@@ -1,1 +1,1 @@
-Repository for the images of the wiki.
+Repository for the wiki images.
