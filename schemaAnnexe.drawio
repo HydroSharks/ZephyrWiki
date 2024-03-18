@@ -1,0 +1,116 @@
+<mxfile host="65bd71144e">
+    <diagram id="4lJ5fR4lzCpiQG3OaUn9" name="PlancheControleurChargeBoite3">
+        <mxGraphModel dx="1145" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Fond boite n°3" style="rounded=0;whiteSpace=wrap;html=1;connectable=0;allowArrows=1;verticalAlign=bottom;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="280" width="280" height="270" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;width=5.205479452054795;endSize=6.1589041095890416;" edge="1" parent="1">
+                    <mxGeometry width="100" height="100" relative="1" as="geometry">
+                        <mxPoint x="470" y="540" as="sourcePoint"/>
+                        <mxPoint x="470" y="290" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="4" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;width=5.205479452054795;endSize=6.1589041095890416;" edge="1" parent="1">
+                    <mxGeometry width="100" height="100" relative="1" as="geometry">
+                        <mxPoint x="690" y="540" as="sourcePoint"/>
+                        <mxPoint x="690" y="290" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="6" value="Rail" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="4">
+                    <mxGeometry x="0.8889" y="-2" relative="1" as="geometry">
+                        <mxPoint x="-22" y="-4" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="5" value="Panneau de bois" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="460" y="320" width="240" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Controlleur de charge" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;labelBackgroundColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="490" y="345" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Coupe circuit PV" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontSize=8;" vertex="1" parent="1">
+                    <mxGeometry x="640" y="350" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Coupe circuit batteries" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontSize=8;" vertex="1" parent="1">
+                    <mxGeometry x="640" y="410" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontSize=8;" vertex="1" parent="1">
+                    <mxGeometry x="465" y="324" width="10" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontSize=8;" vertex="1" parent="1">
+                    <mxGeometry x="465" y="405" width="10" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontSize=8;" vertex="1" parent="1">
+                    <mxGeometry x="465" y="485" width="10" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontSize=8;" vertex="1" parent="1">
+                    <mxGeometry x="685" y="324" width="10" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontSize=8;" vertex="1" parent="1">
+                    <mxGeometry x="685" y="405" width="10" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontSize=8;" vertex="1" parent="1">
+                    <mxGeometry x="685" y="485" width="10" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="Fond boite n°3" style="rounded=0;whiteSpace=wrap;html=1;connectable=0;allowArrows=1;verticalAlign=bottom;" vertex="1" parent="1">
+                    <mxGeometry x="800" y="280" width="280" height="270" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;width=5.205479452054795;endSize=6.1589041095890416;" edge="1" parent="1">
+                    <mxGeometry width="100" height="100" relative="1" as="geometry">
+                        <mxPoint x="830" y="540" as="sourcePoint"/>
+                        <mxPoint x="830" y="60" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="21" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;width=5.205479452054795;endSize=6.1589041095890416;" edge="1" parent="1">
+                    <mxGeometry width="100" height="100" relative="1" as="geometry">
+                        <mxPoint x="1050" y="540" as="sourcePoint"/>
+                        <mxPoint x="1050" y="60" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="22" value="Rail" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="21">
+                    <mxGeometry x="0.8889" y="-2" relative="1" as="geometry">
+                        <mxPoint x="-22" y="-17" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="23" value="Panneau de bois" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="820" y="90" width="240" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="Controlleur de charge" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;labelBackgroundColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="850" y="115" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="Convertisseur 24V / 12V" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;labelBackgroundColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="850" y="185" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="Coupe circuit PV" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontSize=8;" vertex="1" parent="1">
+                    <mxGeometry x="1000" y="120" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="Coupe circuit batteries" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontSize=8;" vertex="1" parent="1">
+                    <mxGeometry x="1000" y="190" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontSize=8;" vertex="1" parent="1">
+                    <mxGeometry x="825" y="94" width="10" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontSize=8;" vertex="1" parent="1">
+                    <mxGeometry x="825" y="175" width="10" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontSize=8;" vertex="1" parent="1">
+                    <mxGeometry x="825" y="255" width="10" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontSize=8;" vertex="1" parent="1">
+                    <mxGeometry x="1045" y="94" width="10" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontSize=8;" vertex="1" parent="1">
+                    <mxGeometry x="1045" y="175" width="10" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontSize=8;" vertex="1" parent="1">
+                    <mxGeometry x="1045" y="255" width="10" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="Convertisseur 24V / 12V" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;labelBackgroundColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="490" y="415" width="120" height="50" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
